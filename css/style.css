@@ -1,0 +1,7 @@
+.pads button{
+    background-color: lightgray;
+    height:150px;
+    width:150px;
+    margin:1px;
+    border-radius:20%;
+}
