@@ -1,7 +1,7 @@
 .pads button{
     /*background-color: lightgray;*/
-    height:150px;
-    width:150px;
+    height:280px;
+    width:280px;
     margin:1px;
     border-radius:20%;
 }
@@ -18,7 +18,8 @@ vertical-align: middle;
 
 }
 
-
+#startbtn{
+}
 
 .b1 {
     background-color: #008CBA;
@@ -29,30 +30,10 @@ vertical-align: middle;
 }
 
 .b3 {
-    background-color: #000000;
-}
+    background-color: #5C45F4;}
 
 
 .b4 {
     background-color: #FFFF00;
 }
 
-.b5 {
-    background-color: #808080;
-}
-
-.b6 {
-    background-color: #5C45F4;
-}
-
-.b7 {
-    background-color: #FFC0CB;
-}
-
-.b8 {
-    background-color: #FFA500;
-}
-
-.b9 {
-    background-color: #800000;
-}
